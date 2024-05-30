@@ -1,0 +1,23 @@
+.menu {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+    background-color: rgba(8, 50, 93, 0.72);
+}
+
+.menu li {
+    display: inline;
+    padding: 10px;
+}
+
+.menu li a {
+    color: #ffffff;
+    text-decoration: #1c0101;
+
+}
+
+.menu li a:hover {
+    color: #1c0101;
+}
